@@ -1,0 +1,20 @@
+Message stats for scenario Prophet CL HAGGLE BUFFER 10M, TTL 2 HARI, END FULL,interval
+sim_time: 274883.0000
+created: 78
+started: 36621
+relayed: 34194
+aborted: 2427
+dropped: 33787
+removed: 0
+delivered: 32
+delivery_prob: 0.4103
+response_prob: 0.0000
+overhead_ratio: 1067.5625
+latency_avg: 50650.2813
+latency_med: 50865.0000
+hopcount_avg: 9.9375
+hopcount_med: 4
+buffertime_avg: 1662.4493
+buffertime_med: 130.0000
+rtt_avg: NaN
+rtt_med: NaN

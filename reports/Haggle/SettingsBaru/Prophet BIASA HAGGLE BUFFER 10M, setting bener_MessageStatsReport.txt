@@ -1,0 +1,20 @@
+Message stats for scenario Prophet BIASA HAGGLE BUFFER 10M, setting bener
+sim_time: 200627.0000
+created: 498
+started: 268466
+relayed: 263557
+aborted: 4909
+dropped: 262430
+removed: 0
+delivered: 197
+delivery_prob: 0.3956
+response_prob: 0.0000
+overhead_ratio: 1336.8528
+latency_avg: 18068.4670
+latency_med: 12029.0000
+hopcount_avg: 11.0406
+hopcount_med: 6
+buffertime_avg: 899.0947
+buffertime_med: 118.0000
+rtt_avg: NaN
+rtt_med: NaN

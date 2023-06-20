@@ -1,0 +1,20 @@
+Message stats for scenario Prophet BIASA HAGGLE BUFFER 20M, TTL 2 HARI,END FULL
+sim_time: 274883.0000
+created: 218
+started: 150662
+relayed: 145509
+aborted: 5153
+dropped: 144619
+removed: 0
+delivered: 113
+delivery_prob: 0.5183
+response_prob: 0.0000
+overhead_ratio: 1286.6903
+latency_avg: 28575.6814
+latency_med: 23003.0000
+hopcount_avg: 9.0177
+hopcount_med: 5
+buffertime_avg: 1491.5160
+buffertime_med: 212.0000
+rtt_avg: NaN
+rtt_med: NaN

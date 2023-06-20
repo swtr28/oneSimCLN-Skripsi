@@ -1,0 +1,22 @@
+Message stats for scenario Prophet Biasa HAGGLE,BUFFER 40M, REVISI
+sim_time: 274883.0000
+created: 194
+started: 158002
+relayed: 153205
+aborted: 4797
+dropped_buffer_full: 149187
+dropped_ttl_expired: 2148
+dropped: 0
+removed: 0
+delivered: 125
+delivery_prob: 0.6443
+response_prob: 0.0000
+overhead_ratio: 1224.6400
+latency_avg: 26051.1280
+latency_med: 20071.0000
+hopcount_avg: 5.8000
+hopcount_med: 4
+buffertime_avg: 2475.9552
+buffertime_med: 435.0000
+rtt_avg: NaN
+rtt_med: NaN

@@ -1,0 +1,20 @@
+Message stats for scenario Prophet BIASA HAGGLE 500s
+sim_time: 200627.0000
+created: 60
+started: 108535
+relayed: 104872
+aborted: 3663
+dropped: 103889
+removed: 0
+delivered: 32
+delivery_prob: 0.5333
+response_prob: 0.0000
+overhead_ratio: 3276.2500
+latency_avg: 24773.3750
+latency_med: 20847.0000
+hopcount_avg: 8.1563
+hopcount_med: 5
+buffertime_avg: 1047.8963
+buffertime_med: 107.0000
+rtt_avg: NaN
+rtt_med: NaN

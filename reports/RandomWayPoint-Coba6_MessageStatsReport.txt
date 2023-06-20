@@ -1,0 +1,20 @@
+Message stats for scenario RandomWayPoint-Coba6
+sim_time: 9000.0000
+created: 192
+started: 324
+relayed: 321
+aborted: 3
+dropped: 384
+removed: 0
+delivered: 8
+delivery_prob: 0.0417
+response_prob: 0.0000
+overhead_ratio: 39.1250
+latency_avg: 2274.9625
+latency_med: 2681.3000
+hopcount_avg: 2.6250
+hopcount_med: 3
+buffertime_avg: 1833.5865
+buffertime_med: 1622.0000
+rtt_avg: NaN
+rtt_med: NaN

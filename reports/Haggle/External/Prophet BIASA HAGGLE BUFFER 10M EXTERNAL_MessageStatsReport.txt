@@ -1,0 +1,20 @@
+Message stats for scenario Prophet BIASA HAGGLE BUFFER 10M EXTERNAL
+sim_time: 200627.0000
+created: 70
+started: 112193
+relayed: 108333
+aborted: 3860
+dropped: 107358
+removed: 0
+delivered: 33
+delivery_prob: 0.4714
+response_prob: 0.0000
+overhead_ratio: 3281.8182
+latency_avg: 27168.8788
+latency_med: 22842.0000
+hopcount_avg: 7.1818
+hopcount_med: 5
+buffertime_avg: 1040.2233
+buffertime_med: 118.0000
+rtt_avg: NaN
+rtt_med: NaN

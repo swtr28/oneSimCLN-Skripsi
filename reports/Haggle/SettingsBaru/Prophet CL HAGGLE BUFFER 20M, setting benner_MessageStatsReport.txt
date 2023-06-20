@@ -1,0 +1,20 @@
+Message stats for scenario Prophet CL HAGGLE BUFFER 20M, setting benner
+sim_time: 200627.0000
+created: 498
+started: 271738
+relayed: 267540
+aborted: 4197
+dropped: 265359
+removed: 0
+delivered: 284
+delivery_prob: 0.5703
+response_prob: 0.0000
+overhead_ratio: 941.0423
+latency_avg: 21695.4120
+latency_med: 15688.0000
+hopcount_avg: 10.4296
+hopcount_med: 5
+buffertime_avg: 1464.4524
+buffertime_med: 280.0000
+rtt_avg: NaN
+rtt_med: NaN

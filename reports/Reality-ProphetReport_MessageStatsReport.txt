@@ -1,0 +1,20 @@
+Message stats for scenario Reality-ProphetReport
+sim_time: 43200.0000
+created: 36
+started: 143
+relayed: 109
+aborted: 34
+dropped: 129
+removed: 0
+delivered: 1
+delivery_prob: 0.0278
+response_prob: 0.0000
+overhead_ratio: 108.0000
+latency_avg: 7087.0000
+latency_med: 7087.0000
+hopcount_avg: 4.0000
+hopcount_med: 4
+buffertime_avg: 14894.0000
+buffertime_med: 17095.0000
+rtt_avg: NaN
+rtt_med: NaN
